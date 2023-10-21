@@ -5,7 +5,7 @@
     <img src="https://avatars.githubusercontent.com/u/10430178?v=2&s=197">
   </a>
   <a href="https://github.com/campbellcole">
-    <img src="https://grs.boyaard.net/?username=campbellcole&include_all_commits=true&show_icons=true&theme=dracula&bg_color=8,a340b6,4c66ce&title_color=abc7ed&layout=compact">
+    <img src="https://grs.boyaard.net/?username=campbellcole&custom_title=GitHub%20Stats&include_all_commits=true&show_icons=true&theme=dracula&bg_color=8,a340b6,4c66ce&title_color=abc7ed&layout=compact">
   </a>
   <br />
   <a href="https://github.com/campbellcole">
