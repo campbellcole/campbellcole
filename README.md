@@ -18,7 +18,8 @@
 
 ### About Me
 
-Currently studying computer science. I love systems languages and cloud architecture.
+Lead Software Engineer at Blackbox Biotech, Inc.
+https://blackboxbio.com
 
 #### Main Languages
 
